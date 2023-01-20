@@ -1,0 +1,11 @@
+div {
+    background-color: aqua;
+    opacity: 0.5;
+}
+
+.image {
+    background-image: url('https://surftriptour.com.br/wp-content/uploads/2020/11/mentawai_foto_mentawai_surf_charters.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
